@@ -2,78 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>STAR(city)GAZER: Roanoke City Council</title>
   <subtitle>Official records of Roanoke City Council meetings, each linked to its source. Independent and nonpartisan. Not affiliated with the City of Roanoke.</subtitle>
-  <link href="https://jasonpersinger.github.io/starcitygazer-site/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://jasonpersinger.github.io/starcitygazer-site/" rel="alternate" type="text/html"/>
-  <id>https://jasonpersinger.github.io/starcitygazer-site/</id>
+  <link href="https://starcitygazer.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/</id>
   <updated>2026-10-23T17:01:46.618365-04:00</updated>
   <author><name>STAR(city)GAZER</name><email>contact@starcitygazer.org</email></author>
   <entry>
     <title>City Council Meeting · Mon, Oct 19, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/731/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/731/</id>
+    <link href="https://starcitygazer.org/meetings/731/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/731/</id>
     <updated>2026-10-23T17:01:46.618365-04:00</updated>
     <summary>Mon, Oct 19, 2026 · 2:00 p.m.. 2 official files. City Council Approved Actions replaced with a new version (Fri, Oct 23, 2026).</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Dec 21, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/735/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/735/</id>
+    <link href="https://starcitygazer.org/meetings/735/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/735/</id>
     <updated>2026-10-23T15:53:09.561545-04:00</updated>
     <summary>Mon, Dec 21, 2026 · 2:00 p.m.. 0 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Dec 7, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/734/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/734/</id>
+    <link href="https://starcitygazer.org/meetings/734/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/734/</id>
     <updated>2026-10-23T15:53:09.561507-04:00</updated>
     <summary>Mon, Dec 7, 2026 · 9:00 a.m.. 0 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Nov 16, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/733/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/733/</id>
+    <link href="https://starcitygazer.org/meetings/733/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/733/</id>
     <updated>2026-10-23T15:53:09.561470-04:00</updated>
     <summary>Mon, Nov 16, 2026 · 2:00 p.m.. 0 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Nov 2, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/732/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/732/</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/732/</id>
     <updated>2026-10-23T15:53:09.561427-04:00</updated>
     <summary>Mon, Nov 2, 2026 · 9:00 a.m.. 0 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Aug 17, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/727/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/727/</id>
+    <link href="https://starcitygazer.org/meetings/727/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/727/</id>
     <updated>2026-10-23T15:53:09.561280-04:00</updated>
     <summary>Mon, Aug 17, 2026 · 2:00 p.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Aug 3, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/726/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/726/</id>
+    <link href="https://starcitygazer.org/meetings/726/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/726/</id>
     <updated>2026-10-23T15:53:09.561089-04:00</updated>
     <summary>Mon, Aug 3, 2026 · 9:00 a.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Oct 5, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/730/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/730/</id>
+    <link href="https://starcitygazer.org/meetings/730/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/730/</id>
     <updated>2026-10-23T10:52:29.520211-04:00</updated>
     <summary>Mon, Oct 5, 2026 · 9:00 a.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Mon, Sep 21, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/729/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/729/</id>
+    <link href="https://starcitygazer.org/meetings/729/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/729/</id>
     <updated>2026-10-23T10:52:29.520089-04:00</updated>
     <summary>Mon, Sep 21, 2026 · 2:00 p.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Tue, Sep 8, 2026</title>
-    <link href="https://jasonpersinger.github.io/starcitygazer-site/meetings/728/" rel="alternate" type="text/html"/>
-    <id>https://jasonpersinger.github.io/starcitygazer-site/meetings/728/</id>
+    <link href="https://starcitygazer.org/meetings/728/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/728/</id>
     <updated>2026-10-23T10:52:29.519866-04:00</updated>
     <summary>Tue, Sep 8, 2026 · 9:00 a.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
