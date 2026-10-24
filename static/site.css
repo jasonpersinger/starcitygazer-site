@@ -1,0 +1,271 @@
+/* STAR(city)GAZER: tokens and rules from the brand guide (October 2026).
+   Colors appear only in the token blocks below; rules use var(--token). */
+
+@font-face { font-family: "Bitter"; font-style: normal; font-weight: 700; font-display: swap;
+  src: url("fonts/bitter-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Next"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("fonts/atkinson-hyperlegible-next-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Next"; font-style: italic; font-weight: 400; font-display: swap;
+  src: url("fonts/atkinson-hyperlegible-next-latin-400-italic.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Next"; font-style: normal; font-weight: 700; font-display: swap;
+  src: url("fonts/atkinson-hyperlegible-next-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Mono"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("fonts/atkinson-hyperlegible-mono-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Mono"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("fonts/atkinson-hyperlegible-mono-latin-500-normal.woff2") format("woff2"); }
+
+/* tokens: light */
+:root {
+  color-scheme: light;
+  --paper: #FAF6EE;
+  --surface: #FFFDF8;
+  --sunk: #F1EBDF;
+  --rule: #E2DACB;
+  --line: #8C8270;
+  --ink: #1E2420;
+  --ink-muted: #4E5650;
+  --pine: #2E5E4E;
+  --on-pine: #FFFDF8;
+  --link: #245C4A;
+  --star: #C8901E;
+  --star-ink: #7F5300;
+  --focus: #7F5300;
+  --notice-bg: #FBEFD3;
+  --notice-ink: #4F3300;
+  --notice-line: #A77412;
+  --mark-tile: #1F4A3D;
+  --mark-star: #F2C14E;
+}
+
+/* tokens: dark (system setting, unless the reader chose light) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper: #161A17;
+    --surface: #1F2420;
+    --sunk: #111411;
+    --rule: #2C322D;
+    --line: #7E877F;
+    --ink: #EDE8DC;
+    --ink-muted: #B8B2A4;
+    --pine: #8CC5AE;
+    --on-pine: #10201A;
+    --link: #9DD4BE;
+    --star: #F2C14E;
+    --star-ink: #F2C14E;
+    --focus: #F2C14E;
+    --notice-bg: #33290F;
+    --notice-ink: #F7DFA0;
+    --notice-line: #C99A2E;
+    --mark-tile: #1F4A3D;
+    --mark-star: #F2C14E;
+  }
+}
+
+/* tokens: dark (chosen with the toggle) */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #161A17;
+  --surface: #1F2420;
+  --sunk: #111411;
+  --rule: #2C322D;
+  --line: #7E877F;
+  --ink: #EDE8DC;
+  --ink-muted: #B8B2A4;
+  --pine: #8CC5AE;
+  --on-pine: #10201A;
+  --link: #9DD4BE;
+  --star: #F2C14E;
+  --star-ink: #F2C14E;
+  --focus: #F2C14E;
+  --notice-bg: #33290F;
+  --notice-ink: #F7DFA0;
+  --notice-line: #C99A2E;
+  --mark-tile: #1F4A3D;
+  --mark-star: #F2C14E;
+}
+
+/* --- base ------------------------------------------------------------------------- */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; /* keeps the footer at the bottom of short pages */
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Atkinson Hyperlegible Next", system-ui, sans-serif;
+  font-size: 1.125rem; /* body 18 */
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: "Bitter", Georgia, serif;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 2rem 0 0.75rem;
+}
+h1 { font-size: 2rem; margin-top: 0.5rem; }  /* h1 32 */
+h2 { font-size: 1.5rem; }                    /* h2 24 */
+h3 { font-size: 1.25rem; }                   /* h3 20 */
+.display { font-size: 2.5rem; }              /* display 40 */
+
+p { margin: 0 0 1rem; }
+
+a { color: var(--link); text-decoration: underline; text-underline-offset: 0.15em; }
+a:hover { text-decoration-thickness: 2px; }
+
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+.eyebrow {
+  font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+  font-size: 0.8125rem; /* label 13 */
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin: 0 0 0.25rem;
+}
+.meta, time, .item-number, .item-label {
+  font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+  font-size: 0.9375rem; /* meta 15 */
+  color: var(--ink-muted);
+}
+.lede { font-size: 1.25rem; } /* body-lg 20 */
+
+/* --- layout ------------------------------------------------------------------------- */
+
+.skip-link {
+  position: absolute; left: 1rem; top: -4rem;
+  background: var(--surface); color: var(--link);
+  border: 1px solid var(--line); border-radius: 6px; padding: 0.5rem 1rem;
+}
+.skip-link:focus { top: 1rem; }
+
+.site-header, .site-footer { background: var(--surface); }
+.site-header { border-bottom: 1px solid var(--rule); }
+.site-footer { border-top: 1px solid var(--rule); margin-top: 4rem; }
+
+.site-header .wrap, .site-footer .wrap, main {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
+}
+.site-header .wrap {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 0.5rem 1.5rem; padding-top: 0.75rem; padding-bottom: 0.75rem;
+}
+main { padding-top: 2rem; padding-bottom: 2rem; width: 100%; flex: 1 0 auto; }
+.site-footer .wrap { padding-top: 1.5rem; padding-bottom: 2rem; }
+.site-footer p { font-size: 1rem; color: var(--ink-muted); margin: 0 0 0.5rem; }
+.independence { font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace; font-size: 0.9375rem; }
+
+.brand {
+  display: inline-flex; align-items: center; gap: 0.75rem; min-height: 44px;
+  color: var(--ink); text-decoration: none;
+}
+.brand img { width: 32px; height: 32px; image-rendering: pixelated; }
+.brand-name { font-family: "Bitter", Georgia, serif; font-weight: 700; font-size: 1.375rem; letter-spacing: 0.01em; }
+.brand-city { font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace; font-weight: 500; color: var(--pine); }
+
+nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0 1.25rem; align-items: center; }
+nav a {
+  display: inline-flex; align-items: center; min-height: 44px;
+  color: var(--ink); font-weight: 700; text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+nav a:hover { border-bottom-color: var(--line); }
+nav a[aria-current="page"] { color: var(--pine); border-bottom-color: var(--pine); }
+
+.theme-toggle {
+  min-height: 44px; padding: 0 0.875rem;
+  font: inherit; font-size: 1rem; font-weight: 700;
+  color: var(--ink); background: var(--sunk);
+  border: 1px solid var(--line); border-radius: 6px; cursor: pointer;
+}
+
+/* --- components --------------------------------------------------------------------- */
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 1rem 1.5rem;
+  margin: 0 0 1rem;
+}
+.card h3 { margin: 0.25rem 0 0.5rem; }
+.card .meta { margin: 0; }
+
+.meeting-list, .file-list, .history { padding-left: 1.25rem; }
+.meeting-list li, .file-list li, .history li { margin: 0 0 0.5rem; }
+
+.notice {
+  background: var(--notice-bg); color: var(--notice-ink);
+  border: 1px solid var(--notice-line); border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+.notice a { color: var(--notice-ink); }
+
+.agenda-header {
+  background: var(--sunk);
+  border-radius: 6px;
+  padding: 1rem 1.5rem;
+  margin: 0 0 1.5rem;
+  text-align: center;
+}
+.agenda-header p { margin: 0; }
+.agenda-section { border-top: 1px solid var(--rule); padding-top: 0.25rem; }
+.agenda-section h3 { margin-top: 1rem; }
+.agenda-item { padding-left: 3.5rem; position: relative; }
+.agenda-item .item-label { position: absolute; left: 0; top: 0.1rem; }
+.public-comment {
+  background: var(--sunk);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+
+.source { border-top: 1px solid var(--rule); margin-top: 3rem; }
+
+@media (max-width: 30rem) {
+  .agenda-item { padding-left: 0; }
+  .agenda-item .item-label { position: static; display: block; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+/* --- search ----------------------------------------------------------------------- */
+
+.search-form { margin: 1.5rem 0; }
+.search-form label { display: block; font-weight: 700; margin-bottom: 0.5rem; }
+.search-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.search-row input {
+  flex: 1 1 16rem; min-height: 44px; padding: 0 0.875rem;
+  font: inherit; color: var(--ink); background: var(--sunk);
+  border: 1px solid var(--line); border-radius: 6px;
+}
+.search-row button {
+  min-height: 44px; padding: 0 1.5rem;
+  font: inherit; font-weight: 700;
+  color: var(--on-pine); background: var(--pine);
+  border: 1px solid var(--pine); border-radius: 6px; cursor: pointer;
+}
+.search-results { padding-left: 1.25rem; }
+.search-results li { margin: 0 0 1.25rem; }
+.search-results p { margin: 0.25rem 0 0; }
+mark { background: var(--notice-bg); color: var(--notice-ink); padding: 0 0.1em; }
+
+.agenda-label {
+  font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+  font-size: 0.9375rem; /* meta 15 */
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--ink-muted);
+  margin: 1.25rem 0 0.5rem;
+}
