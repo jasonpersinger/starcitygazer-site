@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Taxes</title>
+  <subtitle>Reviewed council records about Taxes. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/taxes/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/taxes/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/taxes/feed.xml</id>
+  <updated>2026-10-30T11:51:48.831408+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Taxes · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.831408+00:00</updated>
+    <summary type="text">Proposed: Public Hearing Request on Tax Exemption for Roanoke Area Ministries. The consent agenda proposed scheduling and advertising a public hearing for November 16, 2026, to consider a real property tax exemption for property owned by Roanoke Area Ministries.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Taxes · Tue, Sep 8, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-728</id>
+    <link href="https://starcitygazer.org/meetings/728/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.789778+00:00</updated>
+    <summary type="text">Discussion / report: Joint Meeting Discussion on School Budget, Capital Realities, and Sales Tax Referendum. City Council and the Roanoke City School Board held a joint meeting with discussions covering an opening of schools prelude, an RCPS budget report from the RCPS CFO, an overview of RCPS and City of Roanoke capital realities, an overview and discussion of a 1% sales tax referendum, and the City Council/School Board buddy system.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6556,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Taxes · Mon, Oct 19, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-731</id>
+    <link href="https://starcitygazer.org/meetings/731/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.718126+00:00</updated>
+    <summary type="text">Discussion / report: Public Follow-Up on Meals Tax Revenue and City Facility Projects. Staff reported that following an inquiry about meals tax revenue and deferred maintenance projects, the August 2026 Monthly Financial Report and project breakdowns for HVAC and elevator modernizations were provided to a resident via the FOIA Officer.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6588,plainText=false)</summary>
+  </entry>
+</feed>

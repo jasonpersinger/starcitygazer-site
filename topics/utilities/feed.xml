@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Utilities</title>
+  <subtitle>Reviewed council records about Utilities. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/utilities/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/utilities/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/utilities/feed.xml</id>
+  <updated>2026-10-30T11:51:48.849557+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Utilities · Mon, Oct 5, 2026</title>
+    <id>https://starcitygazer.org/topics/utilities/feed.xml#meeting-730</id>
+    <link href="https://starcitygazer.org/meetings/730/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.849557+00:00</updated>
+    <summary type="text">Discussion / report: Stormwater Annual Compliance Report. The City Manager highlighted the completion of the City&#39;s annual stormwater compliance report, noting accomplishments such as 10 citywide street-sweeping cycles removing over 1,000 tons of sediment, storm drain cleanings, inspections of nearly 29,000 feet of pipe, and outreach to more than 38,000 residents.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6579,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Utilities · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/utilities/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.831408+00:00</updated>
+    <summary type="text">Discussion / report: Western Virginia Water Authority Water Supply Study Results Briefing. City Council&#39;s informal session agenda scheduled a 30-minute briefing on the results of the Western Virginia Water Authority water supply study.
+
+Proposed: Public Hearing Request for Roanoke Gas Company Utility Easement. The consent agenda recommended scheduling and advertising a public hearing for November 16, 2026, regarding a request from Roanoke Gas Company for a utility easement on city-owned property at 304 Reserve Avenue, SW.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Utilities · Mon, Aug 17, 2026</title>
+    <id>https://starcitygazer.org/topics/utilities/feed.xml#meeting-727</id>
+    <link href="https://starcitygazer.org/meetings/727/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.773296+00:00</updated>
+    <summary type="text">Adopted: Drainage Easement at Virginia Heights Elementary School Property. Following a public hearing, City Council adopted an ordinance authorizing a drainage easement across City-owned property at 1210 Amherst Street, SW (Tax Map Number 1330301), also known as Virginia Heights Elementary School. Recorded vote: 6-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6543,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Utilities · Mon, Sep 21, 2026</title>
+    <id>https://starcitygazer.org/topics/utilities/feed.xml#meeting-729</id>
+    <link href="https://starcitygazer.org/meetings/729/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.752246+00:00</updated>
+    <summary type="text">Discussion / report: Public Matters Follow-Up on Wilmont Park Area Curbing and Stormwater Runoff. Staff followed up on a resident&#39;s inquiry regarding curbing and stormwater runoff in the Wilmont Park area. Stormwater staff determined the runoff is caused by the private driveway&#39;s grade and that curb and gutter installation would only be aesthetic rather than solve the problem, offering the owner options for handling the driveway runoff.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6565,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Utilities · Mon, Aug 3, 2026</title>
+    <id>https://starcitygazer.org/topics/utilities/feed.xml#meeting-726</id>
+    <link href="https://starcitygazer.org/meetings/726/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.730792+00:00</updated>
+    <summary type="text">Hearing scheduled: Public Hearing Scheduling for Drainage Easement at 1210 Amherst Street, SW. City Council concurred in scheduling a public hearing for August 17, 2026, to consider a drainage easement across City-owned property at 1210 Amherst Street, SW.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6534,plainText=false)</summary>
+  </entry>
+</feed>

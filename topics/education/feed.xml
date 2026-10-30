@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Education</title>
+  <subtitle>Reviewed council records about Education. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/education/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/education/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/education/feed.xml</id>
+  <updated>2026-10-30T11:51:48.849557+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Education · Mon, Oct 5, 2026</title>
+    <id>https://starcitygazer.org/topics/education/feed.xml#meeting-730</id>
+    <link href="https://starcitygazer.org/meetings/730/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.849557+00:00</updated>
+    <summary type="text">Adopted: Second Quarter School General Fund Appropriation. City Council adopted a budget ordinance appropriating the Second Quarter School General Fund. Vice-Mayor McGuire and Council Member Sanchez-Jones abstained from the vote. Recorded vote: 5-0.
+
+Adopted: Roanoke City Public Schools FY 2026-2027 Budget Amendment. Council approved an amendment to the Roanoke City Public Schools FY 2026-2027 budget, with Vice-Mayor McGuire and Council Member Sanchez-Jones abstaining. Recorded vote: 5-0.
+
+Adopted: Appropriation for School Board Educational Programs. Council concurred with a School Board request and City Manager recommendation by adopting a budget ordinance to appropriate funds for various educational programs. Vice-Mayor McGuire and Council Member Sanchez-Jones abstained. Recorded vote: 5-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6579,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Education · Tue, Sep 8, 2026</title>
+    <id>https://starcitygazer.org/topics/education/feed.xml#meeting-728</id>
+    <link href="https://starcitygazer.org/meetings/728/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.789778+00:00</updated>
+    <summary type="text">Discussion / report: Joint Meeting Discussion on School Budget, Capital Realities, and Sales Tax Referendum. City Council and the Roanoke City School Board held a joint meeting with discussions covering an opening of schools prelude, an RCPS budget report from the RCPS CFO, an overview of RCPS and City of Roanoke capital realities, an overview and discussion of a 1% sales tax referendum, and the City Council/School Board buddy system.
+
+Adopted: School Board Funding Request for Educational Programs. City Council adopted a budget ordinance concurring with the City Manager&#39;s recommendation to approve a Roanoke City School Board request appropriating funds for various educational programs. Vice-Mayor McGuire and Council Member Sanchez-Jones abstained due to conflicts of interest. Recorded vote: 5-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6556,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Education · Mon, Aug 17, 2026</title>
+    <id>https://starcitygazer.org/topics/education/feed.xml#meeting-727</id>
+    <link href="https://starcitygazer.org/meetings/727/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.773296+00:00</updated>
+    <summary type="text">Adopted: Drainage Easement at Virginia Heights Elementary School Property. Following a public hearing, City Council adopted an ordinance authorizing a drainage easement across City-owned property at 1210 Amherst Street, SW (Tax Map Number 1330301), also known as Virginia Heights Elementary School. Recorded vote: 6-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6543,plainText=false)</summary>
+  </entry>
+</feed>

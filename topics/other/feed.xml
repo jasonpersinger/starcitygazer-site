@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Other issues</title>
+  <subtitle>Reviewed council records about Other issues. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/other/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/other/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/other/feed.xml</id>
+  <updated>2026-10-30T11:51:48.831408+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Other issues · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/other/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.831408+00:00</updated>
+    <summary type="text">Discussion / report: Presentations by Elevate 11 and Hope and Home Taskforce. The City Council agenda included scheduled presentations from Elevate 11 and the Hope and Home Taskforce.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Other issues · Mon, Sep 21, 2026</title>
+    <id>https://starcitygazer.org/topics/other/feed.xml#meeting-729</id>
+    <link href="https://starcitygazer.org/meetings/729/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.752246+00:00</updated>
+    <summary type="text">Discussion / report: City Manager Report on Quiet Pickleball Implementation at Four Parks. The City Manager reported that park maintenance staff installed pickleball signs and equipment boxes at Shrine Hill, Belmont, Raleigh Court, and Eureka parks. Starting September 15, players at those locations must use quieter pickleballs provided by the City to reduce noise for neighbors.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6565,plainText=false)</summary>
+  </entry>
+</feed>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Economic development</title>
+  <subtitle>Reviewed council records about Economic development. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/economic-development/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/economic-development/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/economic-development/feed.xml</id>
+  <updated>2026-10-30T11:51:48.849557+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Economic development · Mon, Oct 5, 2026</title>
+    <id>https://starcitygazer.org/topics/economic-development/feed.xml#meeting-730</id>
+    <link href="https://starcitygazer.org/meetings/730/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.849557+00:00</updated>
+    <summary type="text">Hearing scheduled: Public Hearing on Enterprise Zone One A Boundary Amendments. City Council concurred in a request to schedule and advertise a public hearing on October 19, 2026, regarding proposed boundary amendments to Enterprise Zone One A.
+
+Adopted: Small Business Development Center Funding Acceptance and Appropriation. Council adopted an ordinance accepting and appropriating additional funds for the Greater Roanoke and New River Valley Small Business Development Center for fiscal year 2027. Recorded vote: 7-0.
+
+Adopted: Congressional Directed Spending Grant for RoVa Labs Equipment. Council voted 6-1 to adopt an ordinance accepting FY26 Congressional Directed Spending grant award funds from the U.S. Small Business Administration to purchase laboratory equipment for RoVa Labs. Vice-Mayor McGuire voted no. Recorded vote: 6-1.
+
+Discussion / report: Mayor&#39;s Fall Business Summit Announcement. City staff provided information on the upcoming Mayor&#39;s Fall Business Summit, announcing that online registration was open for the October 29 event.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6579,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Economic development · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/economic-development/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.831408+00:00</updated>
+    <summary type="text">Proposed: Performance Agreement for Salem Avenue Parking Structure. The agenda recommended action on executing a performance agreement between the City, the Economic Development Authority of the City of Roanoke, and Shadwell Properties, LLC, for costs associated with securing the parking structure at 33 Salem Avenue SW.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Economic development · Tue, Sep 8, 2026</title>
+    <id>https://starcitygazer.org/topics/economic-development/feed.xml#meeting-728</id>
+    <link href="https://starcitygazer.org/meetings/728/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.789778+00:00</updated>
+    <summary type="text">Discussion / report: Presentation on RoVA Labs Facility by Virginia Tech Foundation. Elizabeth McClanahan, CEO of Virginia Tech Foundation, Inc., and President of Virginia Tech Corporate Research Center, Inc., delivered a presentation on the RoVA Labs facility and presented a reimbursement check to the City of Roanoke.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6556,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Economic development · Mon, Aug 17, 2026</title>
+    <id>https://starcitygazer.org/topics/economic-development/feed.xml#meeting-727</id>
+    <link href="https://starcitygazer.org/meetings/727/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.773296+00:00</updated>
+    <summary type="text">Discussion / report: Entertainment District and Berglund Center Focus Group Presentation. Council Member Nash, Economic Development Director Marc Nelson, and Berglund Center Manager Robyn Schon presented information concerning the Entertainment District and facility needs at the Berglund Center.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6543,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Economic development · Mon, Aug 3, 2026</title>
+    <id>https://starcitygazer.org/topics/economic-development/feed.xml#meeting-726</id>
+    <link href="https://starcitygazer.org/meetings/726/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.730792+00:00</updated>
+    <summary type="text">Adopted: CY 2026 Small Business Development Center Subaward Agreement Modification. City Council adopted a resolution authorizing the execution of a modification to the calendar year 2026 Small Business Development Center subaward agreement. Recorded vote: 6-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6534,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Economic development · Mon, Oct 19, 2026</title>
+    <id>https://starcitygazer.org/topics/economic-development/feed.xml#meeting-731</id>
+    <link href="https://starcitygazer.org/meetings/731/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.718126+00:00</updated>
+    <summary type="text">Adopted: Economic Development Authority Director Appointment. Council voted 7-0 to adopt Resolution No. 43485-101926, appointing a Director to the Economic Development Authority for the City of Roanoke. Recorded vote: 7-0.
+
+Adopted: Enterprise Zone One A Boundary Amendments. Following a public hearing, City Council voted 7-0 to adopt Resolution No. 43488-101926, approving boundary amendments to Enterprise Zone One A. Recorded vote: 7-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6588,plainText=false)</summary>
+  </entry>
+</feed>

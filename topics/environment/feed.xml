@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Environment</title>
+  <subtitle>Reviewed council records about Environment. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/environment/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/environment/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/environment/feed.xml</id>
+  <updated>2026-10-30T11:51:48.849557+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Environment · Mon, Oct 5, 2026</title>
+    <id>https://starcitygazer.org/topics/environment/feed.xml#meeting-730</id>
+    <link href="https://starcitygazer.org/meetings/730/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.849557+00:00</updated>
+    <summary type="text">Discussion / report: Stormwater Annual Compliance Report. The City Manager highlighted the completion of the City&#39;s annual stormwater compliance report, noting accomplishments such as 10 citywide street-sweeping cycles removing over 1,000 tons of sediment, storm drain cleanings, inspections of nearly 29,000 feet of pipe, and outreach to more than 38,000 residents.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6579,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Environment · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/environment/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.831408+00:00</updated>
+    <summary type="text">Discussion / report: Western Virginia Water Authority Water Supply Study Results Briefing. City Council&#39;s informal session agenda scheduled a 30-minute briefing on the results of the Western Virginia Water Authority water supply study.
+
+Proposed: Erosion and Stormwater Management Code Update Community Meeting Announcement. The consent agenda included a community meeting announcement scheduled for November 19, 2026, to collect public comment on proposed draft updates to City Code Chapter 11.8 concerning Erosion and Stormwater Management.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Environment · Mon, Aug 17, 2026</title>
+    <id>https://starcitygazer.org/topics/environment/feed.xml#meeting-727</id>
+    <link href="https://starcitygazer.org/meetings/727/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.773296+00:00</updated>
+    <summary type="text">Discussion / report: Staff Follow-Up Report on Deer Culling Program. The Community Engagement Manager reported on follow-ups to citizen concerns regarding the deer population, noting that Deputy Chief Crawley had previously presented on deer population growth, the current culling program, and potential alternatives.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6543,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Environment · Mon, Sep 21, 2026</title>
+    <id>https://starcitygazer.org/topics/environment/feed.xml#meeting-729</id>
+    <link href="https://starcitygazer.org/meetings/729/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.752246+00:00</updated>
+    <summary type="text">Discussion / report: Community and City Greenhouse Gas Emissions and Energy Report. Council received and filed a 30-minute presentation and report regarding the Community Greenhouse Gas (GHG) Emissions and Energy Report and City Emissions Report.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6565,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Environment · Mon, Aug 3, 2026</title>
+    <id>https://starcitygazer.org/topics/environment/feed.xml#meeting-726</id>
+    <link href="https://starcitygazer.org/meetings/726/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.730792+00:00</updated>
+    <summary type="text">Discussion / report: Briefing on Deer Culling. An informal session briefing was scheduled for City Council regarding deer culling.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6534,plainText=false)</summary>
+  </entry>
+</feed>

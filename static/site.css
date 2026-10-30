@@ -269,3 +269,26 @@ mark { background: var(--notice-bg); color: var(--notice-ink); padding: 0 0.1em;
   color: var(--ink-muted);
   margin: 1.25rem 0 0.5rem;
 }
+
+/* --- reviewed recaps and issue pages ---------------------------------------------- */
+.preview-banner { background: var(--notice-bg); color: var(--notice-ink); margin: 0; padding: .7rem 1rem; text-align: center; border-bottom: 1px solid var(--notice-line); font-size: .95rem; }
+.coverage-note { color: var(--ink-muted); font-size: 1rem; border-left: 3px solid var(--line); padding-left: 1rem; margin: 1.5rem 0; }
+.section-heading { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; align-items: baseline; justify-content: space-between; }
+.issue-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
+.issue-card { border: 1px solid var(--line); border-radius: 6px; background: var(--surface); padding: 1.4rem; min-width: 0; }
+.issue-card h3 { margin-top: .8rem; font-size: 1.3rem; }
+.issue-card p { margin-bottom: .7rem; }
+.issue-meta { display: flex; flex-wrap: wrap; gap: .5rem .75rem; color: var(--ink-muted); font-size: .9rem; align-items: center; }
+.status-pill { display: inline-block; border: 1px solid var(--line); border-radius: 4px; padding: .12rem .5rem; color: var(--ink); font-size: .85rem; }
+.vote-tally { font-family: "Atkinson Hyperlegible Mono", monospace; white-space: nowrap; }
+.topic-tags { display: flex; flex-wrap: wrap; gap: .3rem 1rem; list-style: none; padding: 0; font-size: .9rem; margin: .8rem 0; }
+.topic-tags a { display: inline-flex; min-height: 44px; align-items: center; }
+.recap-item { border-top: 1px solid var(--rule); padding: 1.6rem 0; scroll-margin-top: 1rem; }
+.recap-item h3 { margin-top: .75rem; }
+.evidence { background: var(--sunk); border-radius: 4px; padding: .6rem 1rem; margin: 1rem 0; }
+.evidence summary { cursor: pointer; min-height: 44px; display: list-item; padding: .4rem 0; color: var(--link); text-decoration: underline; }
+.evidence blockquote { border-left: 2px solid var(--line); padding-left: 1rem; margin: 1rem 0; font-size: 1rem; overflow-wrap: anywhere; }
+.topic-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.topic-card { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 1.25rem; min-height: 105px; display: flex; flex-direction: column; justify-content: space-between; gap: .5rem; }
+.topic-card > span:first-child { font-family: "Bitter", Georgia, serif; font-size: 1.2rem; }
+@media (max-width: 720px) { .issue-grid, .topic-grid { grid-template-columns: 1fr; } .issue-card { padding: 1.1rem; } }

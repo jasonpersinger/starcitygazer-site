@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAR(city)GAZER: Housing</title>
+  <subtitle>Reviewed council records about Housing. Follow new and revised recaps in a feed reader.</subtitle>
+  <link href="https://starcitygazer.org/topics/housing/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://starcitygazer.org/topics/housing/" rel="alternate" type="text/html"/>
+  <id>https://starcitygazer.org/topics/housing/feed.xml</id>
+  <updated>2026-10-30T11:51:48.789778+00:00</updated>
+  <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Housing · Tue, Sep 8, 2026</title>
+    <id>https://starcitygazer.org/topics/housing/feed.xml#meeting-728</id>
+    <link href="https://starcitygazer.org/meetings/728/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.789778+00:00</updated>
+    <summary type="text">Discussion / report: Director of Real Estate Valuation Real Estate Update Briefing. The Director of Real Estate Valuation presented a 15-minute real estate update briefing.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6556,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Housing · Mon, Aug 17, 2026</title>
+    <id>https://starcitygazer.org/topics/housing/feed.xml#meeting-727</id>
+    <link href="https://starcitygazer.org/meetings/727/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.773296+00:00</updated>
+    <summary type="text">Adopted: HUD Continuum of Care Grant for Homeless Assistance Team. City Council adopted an ordinance accepting and appropriating the FY 2025 HUD Continuum of Care Grant Award for the Homeless Assistance Team (HAT). Recorded vote: 6-0.
+
+Adopted: HUD Continuum of Care Grant for Coordinated Assessment System. City Council adopted an ordinance accepting and appropriating the FY 2025 HUD Continuum of Care Grant Award for the Coordinated Assessment System (CAS). Recorded vote: 6-0.
+
+Adopted: HUD Continuum of Care Planning Grant Acceptance and Appropriation. City Council adopted an ordinance accepting and appropriating the FY 2025 HUD Continuum of Care Grant Award for CoC Planning. Recorded vote: 6-0.
+
+Discussion / report: Staff Follow-Up on Historic Gainsboro Home Rehab Funding. Staff reported on follow-up discussions regarding ARPA funding for home rehabilitation in Historic Gainsboro, specifically 23 Gilmer Avenue. Officials explained the home did not meet grant guidelines because it was not owner-occupied when applied for, is uninhabitable, and requires repairs—including a foundation—exceeding funding by hundreds of thousands of dollars. A site visit was arranged to assess total costs.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6543,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Housing · Mon, Aug 3, 2026</title>
+    <id>https://starcitygazer.org/topics/housing/feed.xml#meeting-726</id>
+    <link href="https://starcitygazer.org/meetings/726/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.730792+00:00</updated>
+    <summary type="text">Adopted: Renovation Alliance Contract Amendment No. 4. City Council adopted a resolution approving Amendment No. 4 to Contract C23-8192-106 with Renovation Alliance to increase the award amount to reflect incurred costs. Recorded vote: 6-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6534,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Housing · Mon, Oct 19, 2026</title>
+    <id>https://starcitygazer.org/topics/housing/feed.xml#meeting-731</id>
+    <link href="https://starcitygazer.org/meetings/731/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T11:51:48.718126+00:00</updated>
+    <summary type="text">Discussion / report: Lead Poisoning Prevention Week Proclamation. Mayor Joseph L. Cobb presented a proclamation declaring October 25–31, 2026, as National Lead Poisoning Prevention Week to Housing Programs and Policy Manager Desi Wynter, Lead Safe Roanoke Program Manager Katie Kennedy, and attending staff.
+
+Discussion / report: Roanoke Neighborhood Advocates Annual Report. Representatives from Roanoke Neighborhood Advocates and the Neighborhood Services Coordinator presented the board&#39;s annual report and activities to City Council.
+
+Adopted: Rezoning of 0 Janette Avenue SW. Following a public hearing, City Council voted 7-0 to adopt Ordinance No. 43486-101926, rezoning 0 Janette Avenue SW from Recreation and Open Space District (ROS) to Residential District (RM-2). Recorded vote: 7-0.
+
+Adopted: Rezoning of Parcels at 0 Franklin Road SW. Following a public hearing, City Council voted 7-0 to adopt Ordinance No. 43487-101926, approving the request of Lawson Company Incorporated to rezone three parcels at 0 Franklin Road SW from Mixed Use District (MX) to Residential District (RM-2). Recorded vote: 7-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6588,plainText=false)</summary>
+  </entry>
+</feed>
