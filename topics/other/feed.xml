@@ -5,8 +5,35 @@
   <link href="https://starcitygazer.org/topics/other/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://starcitygazer.org/topics/other/" rel="alternate" type="text/html"/>
   <id>https://starcitygazer.org/topics/other/feed.xml</id>
-  <updated>2026-10-30T11:51:48.752246+00:00</updated>
+  <updated>2026-10-30T17:15:56.057399+00:00</updated>
   <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Other issues · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/other/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:56.057399+00:00</updated>
+    <summary type="text">Discussion / report: Presentations by Elevate 11 and Hope and Home Taskforce. The City Council agenda included scheduled presentations from Elevate 11 and the Hope and Home Taskforce.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Other issues · Mon, Jun 15, 2026</title>
+    <id>https://starcitygazer.org/topics/other/feed.xml#meeting-723</id>
+    <link href="https://starcitygazer.org/meetings/723/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:56.009528+00:00</updated>
+    <summary type="text">Adopted: Temporary Lighting Request for the Roanoke Star. Council adopted an amended resolution approving a temporary lighting request for the Roanoke Star. Recorded vote: 6-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6502,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Other issues · Mon, May 4, 2026</title>
+    <id>https://starcitygazer.org/topics/other/feed.xml#meeting-718</id>
+    <link href="https://starcitygazer.org/meetings/718/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:55.960226+00:00</updated>
+    <summary type="text">Discussion / report: Salvation Army 140-Year Presentation. Council received and filed a presentation by Jay Whitmore highlighting 140 years of the Salvation Army in the City of Roanoke.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6465,plainText=false)</summary>
+  </entry>
   <entry>
     <title>Other issues · Mon, Sep 21, 2026</title>
     <id>https://starcitygazer.org/topics/other/feed.xml#meeting-729</id>

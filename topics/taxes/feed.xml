@@ -5,8 +5,48 @@
   <link href="https://starcitygazer.org/topics/taxes/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://starcitygazer.org/topics/taxes/" rel="alternate" type="text/html"/>
   <id>https://starcitygazer.org/topics/taxes/feed.xml</id>
-  <updated>2026-10-30T11:51:48.789778+00:00</updated>
+  <updated>2026-10-30T17:15:56.057399+00:00</updated>
   <author><name>STAR(city)GAZER</name></author>
+  <entry>
+    <title>Taxes · Mon, Nov 2, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-732</id>
+    <link href="https://starcitygazer.org/meetings/732/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:56.057399+00:00</updated>
+    <summary type="text">Proposed: Public Hearing Request on Tax Exemption for Roanoke Area Ministries. The consent agenda proposed scheduling and advertising a public hearing for November 16, 2026, to consider a real property tax exemption for property owned by Roanoke Area Ministries.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6593,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Taxes · Mon, May 18, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-720</id>
+    <link href="https://starcitygazer.org/meetings/720/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:55.981356+00:00</updated>
+    <summary type="text">Adopted: Real Property Tax Exemption for 2750 Hoover Street and 1729 Patterson Avenue. Council adopted Ordinance No. 43400-051826 granting real property tax exemption requests for properties owned by Villa Heights Rec Center, LLC and 1729 Patterson Avenue, LLC (operated under Restoration Housing). Recorded vote: 6-1.
+
+Adopted: Real Property Tax Exemption for 725 Franklin Road, SW. Council approved Ordinance No. 43401-051826 approving a real property tax exemption for property owned by Assisi Animal Clinics of Virginia, Inc. at 725 Franklin Road, SW. Recorded vote: 7-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6490,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Taxes · Mon, May 11, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-719</id>
+    <link href="https://starcitygazer.org/meetings/719/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:55.966547+00:00</updated>
+    <summary type="text">Adopted: Reaffirmation of Real Estate Tax Rate. City Council adopted Ordinance No. 43385-051126 reaffirming the real estate tax rate on a 6-1 vote, with Council Member Hagen voting no. Recorded vote: 6-1.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6475,plainText=false)</summary>
+  </entry>
+  <entry>
+    <title>Taxes · Mon, May 4, 2026</title>
+    <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-718</id>
+    <link href="https://starcitygazer.org/meetings/718/" rel="alternate" type="text/html"/>
+    <updated>2026-10-30T17:15:55.960226+00:00</updated>
+    <summary type="text">Hearing scheduled: Public Hearing Scheduling for Property Tax Exemptions for Villa Heights Rec Center and Patterson Avenue Properties. City Council concurred with a request to schedule a public hearing on May 18, 2026, regarding real property tax exemptions for Villa Heights Rec Center, LLC, and 1729 Patterson Avenue, LLC (Restoration Housing). Recorded vote: 7-0.
+
+Hearing scheduled: Public Hearing Scheduling for Property Tax Exemption for Assisi Animal Clinics of Virginia. City Council agreed to schedule a public hearing for May 18, 2026, regarding real property tax exemption for Assisi Animal Clinics of Virginia, Inc. Recorded vote: 7-0.
+
+Official source: https://roanokeva.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6465,plainText=false)</summary>
+  </entry>
   <entry>
     <title>Taxes · Tue, Sep 8, 2026</title>
     <id>https://starcitygazer.org/topics/taxes/feed.xml#meeting-728</id>
