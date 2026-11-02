@@ -5,8 +5,15 @@
   <link href="https://starcitygazer.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://starcitygazer.org/" rel="alternate" type="text/html"/>
   <id>https://starcitygazer.org/</id>
-  <updated>2026-10-30T10:52:17.728168-04:00</updated>
+  <updated>2026-11-02T11:00:45.416568-05:00</updated>
   <author><name>STAR(city)GAZER</name><email>contact@starcitygazer.org</email></author>
+  <entry>
+    <title>City Council Meeting · Mon, Sep 21, 2026</title>
+    <link href="https://starcitygazer.org/meetings/729/" rel="alternate" type="text/html"/>
+    <id>https://starcitygazer.org/meetings/729/</id>
+    <updated>2026-11-02T11:00:45.416568-05:00</updated>
+    <summary>Mon, Sep 21, 2026 · 2:00 p.m.. 2 official files. City Council Approved Actions: text became available (Mon, Nov 2, 2026).</summary>
+  </entry>
   <entry>
     <title>City Council Meeting · Fri, Jul 24, 2026</title>
     <link href="https://starcitygazer.org/meetings/737/" rel="alternate" type="text/html"/>
@@ -125,13 +132,6 @@
     <id>https://starcitygazer.org/meetings/730/</id>
     <updated>2026-10-23T10:52:29.520211-04:00</updated>
     <summary>Mon, Oct 5, 2026 · 9:00 a.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
-  </entry>
-  <entry>
-    <title>City Council Meeting · Mon, Sep 21, 2026</title>
-    <link href="https://starcitygazer.org/meetings/729/" rel="alternate" type="text/html"/>
-    <id>https://starcitygazer.org/meetings/729/</id>
-    <updated>2026-10-23T10:52:29.520089-04:00</updated>
-    <summary>Mon, Sep 21, 2026 · 2:00 p.m.. 2 official files. STAR(city)GAZER began tracking this meeting: Fri, Oct 23, 2026.</summary>
   </entry>
   <entry>
     <title>City Council Meeting · Tue, Sep 8, 2026</title>
